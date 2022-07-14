@@ -4,4 +4,10 @@
     <string name="title_map">Карта</string>
     <string name="title_team">Команда</string>
     <string name="title_account">Аккаунт</string>
+    <string name="tutorial_text_1">Просматривайте расписание соревнований и регистрируйтесь в них</string>
+    <string name="tutorial_text_2">Создавайте свою сборную и будьте в курсе ваших побед</string>
+    <string name="tutorial_text_3">Что то про тепловую карту и карту с реакциями</string>
+    <string name="tutorial_text_4">Добивайтесь своих целей с нами!</string>
+    <string name="next">Далее</string>
+    <string name="start">Начать</string>
 </resources>
