@@ -97,7 +97,7 @@ class MapFragment : Fragment() {
             this.locationPuck = LocationPuck2D(
                 bearingImage = AppCompatResources.getDrawable(
                     requireContext(),
-                    R.drawable.ic_launcher_foreground,
+                    R.drawable.ic_map_label,
                 ),
 //                shadowImage = AppCompatResources.getDrawable(
 //                    requireContext(),

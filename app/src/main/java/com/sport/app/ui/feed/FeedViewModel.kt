@@ -21,6 +21,49 @@ class FeedViewModel : ViewModel() {
     }
 
     fun getNews() {
-        _news.value = listOf(NewsItem("Новость", "Описание", "", "15/07/2022", ""))
+        _news.value = listOf(
+            NewsItem(
+                "Победа",
+                "Команда футболистов из Красноярска одержала победу в финале сельского чемпионата",
+                "https://dl.dropboxusercontent.com/s/0sa4bc2zqjqe7lt/%23577_team_work_outline.png",
+                "15/07/2022",
+                ""
+            ),
+            NewsItem(
+                "Победа",
+                "Команда футболистов из Красноярска одержала победу в финале сельского чемпионата",
+                "https://dl.dropboxusercontent.com/s/0sa4bc2zqjqe7lt/%23577_team_work_outline.png",
+                "15/07/2022",
+                ""
+            ),
+            NewsItem(
+                "Победа",
+                "Команда футболистов из Красноярска одержала победу в финале сельского чемпионата",
+                "https://dl.dropboxusercontent.com/s/0sa4bc2zqjqe7lt/%23577_team_work_outline.png",
+                "15/07/2022",
+                ""
+            ),
+            NewsItem(
+                "Победа",
+                "Команда футболистов из Красноярска одержала победу в финале сельского чемпионата",
+                "https://dl.dropboxusercontent.com/s/0sa4bc2zqjqe7lt/%23577_team_work_outline.png",
+                "15/07/2022",
+                ""
+            ),
+            NewsItem(
+                "Победа",
+                "Команда футболистов из Красноярска одержала победу в финале сельского чемпионата",
+                "https://dl.dropboxusercontent.com/s/0sa4bc2zqjqe7lt/%23577_team_work_outline.png",
+                "15/07/2022",
+                ""
+            ),
+            NewsItem(
+                "Победа",
+                "Команда футболистов из Красноярска одержала победу в финале сельского чемпионата",
+                "https://dl.dropboxusercontent.com/s/0sa4bc2zqjqe7lt/%23577_team_work_outline.png",
+                "15/07/2022",
+                ""
+            ),
+        )
     }
 }
