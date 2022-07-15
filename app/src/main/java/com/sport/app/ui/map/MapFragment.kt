@@ -1,6 +1,5 @@
 package com.sport.app.ui.map
 
-import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -10,7 +9,6 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.mapbox.android.gestures.MoveGestureDetector
 import com.mapbox.maps.CameraOptions
-import com.mapbox.maps.Style
 import com.mapbox.maps.extension.style.expressions.dsl.generated.interpolate
 import com.mapbox.maps.plugin.LocationPuck2D
 import com.mapbox.maps.plugin.gestures.OnMoveListener
